@@ -33,7 +33,7 @@ This project analyzes Indian Premier League (IPL) cricket match statistics using
    ```
 
 ## 📸 Sample Visualization
-![Sample Graph](https://via.placeholder.com/600x300)
+![Sample Graph](https://via.placeholder.com/600x300).
 
 ## 👨‍💻 Technologies Used
 - Python 🐍
