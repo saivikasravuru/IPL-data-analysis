@@ -11,7 +11,7 @@ This project analyzes Indian Premier League (IPL) cricket match statistics using
 1️⃣ **Matches Per Season** 📅 - Visualizes the number of matches played each IPL season.
 2️⃣ **Total Matches Played by Each Team** 🏟️ - Displays the total matches played by every team.
 3️⃣ **Total Wins by Each Team** 🏆 - Highlights the winning counts of each team.
-4️⃣ **Win Percentage by Each Team** 📈 - Shows the percentage of matches won by each team.
+4️⃣ **Win Percentage by Each Team** 📈 - Shows the percentage of matches won by each team. 
 5️⃣ **Team Comparison** ⚔️ - Allows users to compare two teams based on wins.
 6️⃣ **Player Statistics** 👨‍🏏 - Provides stats for individual players like Virat Kohli.
 7️⃣ **Most Wickets Taken** 🎯 - Identifies the top bowlers in the tournament.
