@@ -7,7 +7,7 @@ This project analyzes Indian Premier League (IPL) cricket match statistics using
 - `matches.csv` 📄: Contains details of all IPL matches played.
 - `deliveries.csv` 📄: Contains ball-by-ball delivery details of each match.
 
-## 📊 Features
+## 📊 Features 
 1️⃣ **Matches Per Season** 📅 - Visualizes the number of matches played each IPL season.
 2️⃣ **Total Matches Played by Each Team** 🏟️ - Displays the total matches played by every team.
 3️⃣ **Total Wins by Each Team** 🏆 - Highlights the winning counts of each team.
